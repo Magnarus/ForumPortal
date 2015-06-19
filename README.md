@@ -1,2 +1,2 @@
-# ForumPortal
-Simple portail d'accueil pour un forum dont j'ai la charge
+# PlaneteManga
+Dépot pour les outils utilisés sur le forum PlaneteManga
